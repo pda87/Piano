@@ -1,0 +1,23 @@
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\bin\Debug\Piano.exe.config
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\bin\Debug\Piano.exe
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\bin\Debug\Piano.pdb
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\obj\Debug\Piano.Piano.resources
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\obj\Debug\Piano.Properties.Resources.resources
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\obj\Debug\Piano.csproj.GenerateResource.Cache
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\obj\Debug\Piano.exe
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\obj\Debug\Piano.pdb
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\bin\Debug\Sounds\WEP sus m3 C3 -11.wav
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\bin\Debug\Sounds\WEP sus m3 A#3 -11.wav
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\bin\Debug\Sounds\WEP sus m3 A3 -11.wav
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\bin\Debug\Sounds\WEP sus m3 B3 -11.wav
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\bin\Debug\Sounds\WEP sus m3 C#3 -11.wav
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\bin\Debug\Sounds\WEP sus m3 C4 -11.wav
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\bin\Debug\Sounds\WEP sus m3 D#3 -11.wav
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\bin\Debug\Sounds\WEP sus m3 D3 -11.wav
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\bin\Debug\Sounds\WEP sus m3 E3 -11.wav
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\bin\Debug\Sounds\WEP sus m3 F#3 -11.wav
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\bin\Debug\Sounds\WEP sus m3 F3 -11.wav
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\bin\Debug\Sounds\WEP sus m3 G#3 -11.wav
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\bin\Debug\Sounds\WEP sus m3 G3 -11.wav
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\bin\Debug\MusicalNote.png
+C:\Users\petedarden\documents\visual studio 2013\Projects\Piano\Piano\obj\Debug\Piano.csprojResolveAssemblyReference.cache
